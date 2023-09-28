@@ -48,42 +48,42 @@ bash read.sh
  if [ "${userinput1:-}" = "1" ] 
  then 
      copy 
-     cp spam01.txt /data/data/com.termux/files/home/WhatsappSPAM/source 
+     cp spam01.txt /data/data/com.termux/files/home/WhatsappSPAM/temp
      req 
      cat spam01.txt 
  fi 
  if [ "${userinput1:-}" = "2" ] 
  then 
      copy 
-     cp spam02.txt /data/data/com.termux/files/home/WhatsappSPAM/source 
+     cp spam02.txt /data/data/com.termux/files/home/WhatsappSPAM/temp
      req 
      cat spam02.txt 
  fi 
  if [ "${userinput1:-}" = "3" ] 
  then 
      copy 
-     cp spam03.txt /data/data/com.termux/files/home/WhatsappSPAM/source 
+     cp spam03.txt /data/data/com.termux/files/home/WhatsappSPAM/temp
      req 
      cat spam03.txt
  fi 
  if [ "${userinput1:-}" = "4" ] 
  then 
      copy 
-     cp spam04.txt /data/data/com.termux/files/home/WhatsappSPAM/source 
+     cp spam04.txt /data/data/com.termux/files/home/WhatsappSPAM/temp
      req 
      cat spam04.txt
  fi 
  if [ "${userinput1:-}" = "5" ] 
  then 
      copy 
-     cp spam05.txt /data/data/com.termux/files/home/WhatsappSPAM/source 
+     cp spam05.txt /data/data/com.termux/files/home/WhatsappSPAM/temp
      req 
      cat spam05.txt
  fi 
  if [ "${userinput1:-}" = "6" ] 
  then 
      copy 
-     cp spam06.txt /data/data/com.termux/files/home/WhatsappSPAM/source 
+     cp spam06.txt /data/data/com.termux/files/home/WhatsappSPAM/temp
      req 
      cat spam06.txt 
  fi 
