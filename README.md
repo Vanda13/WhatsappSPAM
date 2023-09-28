@@ -12,14 +12,15 @@ clone intro the repo
   
  cd WhatsappSPAM  
   
- bash spam.sh 
+ bash spam.sh
+```
   
  # Welcome To Smtechmods Youtube Channel 
 
 💢 Disclaimer 💢 
   
- SL ANDROID  Channel Doesn't Promote & Encourage Any illegal Activities,  
- SL ANDROID YouTube Channel All Contents Only Provided  by Education &Purpose Only.  
+ The developer 😠 Doesn't Promote & Encourage Any illegal Activities,  
+ All Contents Only Provided  by Education &Purpose Only.  
  Thanks for watching. 
   
   
