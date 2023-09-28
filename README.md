@@ -1,24 +1,22 @@
 # Whatsapp SPAM 
-  
-  
-  
- pkg install git 
-  
-  
-  
+  ``` 
+ pkg install git
+ 
  pkg install curl 
   
  pkg install ruby 
-  
- git clone https://github.com/RazorKenway/WhatsappSPAM.git 
+  ```
+clone intro the repo
+```
+ git clone https://github.com/thedeveloper03/WhatsappSPAM.git 
   
  cd WhatsappSPAM  
   
  bash spam.sh 
   
- # Welcome To SL Android Youtube Channel 
-  
-                                     💢 Disclaimer 💢 
+ # Welcome To Smtechmods Youtube Channel 
+
+💢 Disclaimer 💢 
   
  SL ANDROID  Channel Doesn't Promote & Encourage Any illegal Activities,  
  SL ANDROID YouTube Channel All Contents Only Provided  by Education &Purpose Only.  
